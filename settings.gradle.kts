@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "blog"
+rootProject.name = "Blog"
 
 include(":site")
